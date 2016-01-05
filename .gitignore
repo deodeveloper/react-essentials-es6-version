@@ -2,3 +2,6 @@
 *.swp
 node_modules
 *.log
+.idea/*
+react-essentials-es6-version.iml
+.idea
